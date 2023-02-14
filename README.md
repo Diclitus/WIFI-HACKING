@@ -77,7 +77,7 @@ AUTHOR:
 ```
 #### Screenshots:
 
-<p align="center"><img src="Name">
+<p align="center"><img src="https://github.com/U7P4L-IN/WIFI-HACKING/blob/main/Screenshot_2023-02-14-14-42-32-598_com.termux.jpg">
 
 #### Tools Languages :
 
