@@ -60,26 +60,30 @@
  
 #### INSTALL TOOL ON ROOTED TERMUX :
 ```python
- 
- apt update 
- apt install git 
- apt install python
- apt install python3
- apt install cmatrix
- rm -rf WIFI-HACKING
-
- git clone --depth=1 https://github.com/U7P4L-IN/WIFI-HACKING.git
-
- cd WIFI-HACKING
-
- ls
-
- python WIFI.py 
+apt update 
+apt install git 
+apt install python
+apt install python3
+rm -rf WIFI-HACKING
+git clone --depth=1 https://github.com/U7P4L-IN/WIFI-HACKING.git
+cd WIFI-HACKING
+python WIFI.py 
 ```
 #### Screenshots:
 
 <p align="center"><img src="https://github.com/U7P4L-IN/WIFI-HACKING/blob/main/IMAGE/ScreenShot_20230803212543.png">
 
+<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+
 #### Tools Languages :
 
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=WIFI-HACKING&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+
+<h5 align="center"><b>DESCRIPTION</b></h5>
+
+> [!NOTE]  
+> All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
+
+# Give A Star ⭐
+
+> You can also give this repository a star to show more people and they can use this repository
